@@ -47,7 +47,8 @@ This repository serves as your go-to guide for **AI tools that are actively main
 ### Image & Video Generation
 
 - [**Midjourney v7**](https://www.midjourney.com/) – Premier text-to-image engine (note: official domain; adjust if needed).  
-- [**Adobe Firefly**](https://www.adobe.com/products/firefly.html) – Creative Cloud’s AI image and generative art suite.  
+- [**DALL-E 3**](https://openai.com/dall-e-3) – OpenAI's advanced text-to-image model with precise prompt adherence and integrated ChatGPT access.  
+- [**Adobe Firefly**](https://www.adobe.com/products/firefly.html) – Creative Cloud's AI image and generative art suite.  
 - [**Google Veo 3**](https://gemini.google.com/subscriptions/) – Google’s advanced text-to-video model (accessible via Gemini plans).  
 - [**Runway Gen-4**](https://runwayml.com/) – Cinematic-quality AI video generation platform.  
 - [**Leonardo AI**](https://leonardo.ai/) – Ideal for stylized illustrations and game assets.  
@@ -61,6 +62,7 @@ This repository serves as your go-to guide for **AI tools that are actively main
 
 - [**GitHub Copilot**](https://github.com/features/copilot) – AI pair-programming tool integrated into GitHub.  
 - [**Cursor**](https://cursor.so/) – AI-first programming environment.  
+- [**Vercel v0**](https://v0.dev/) – AI-powered UI component generation with instant deployment capabilities.  
 - [**Aider**](https://aider.ai/) – Terminal-based code assistant.  
 - [**Claude Code**](https://www.anthropic.com/claude) – Anthropic’s developer-targeted version of Claude.  
 - [**Windsurf (Codeium)**](https://codeium.com/) – AI-powered coding IDE.  
@@ -68,13 +70,15 @@ This repository serves as your go-to guide for **AI tools that are actively main
 - [**Vibecode**](https://vibecode.ai/) – Build iOS apps via natural language (powered by modern LLMs).  
 - [**Replit Ghostwriter**](https://replit.com/) – AI tools for live online code collaboration.  
 - [**Sourcegraph Cody**](https://about.sourcegraph.com/cody) – AI assistant for navigating large codebases.  
-- [**Tabnine**](https://www.tabnine.com/) – Privacy-focused code autocompletion.
+- [**Tabnine**](https://www.tabnine.com/) – Privacy-focused code autocompletion.  
+- [**Warp Terminal**](https://www.warp.dev/) – AI-enhanced terminal wrapper for macOS with intelligent features (use defensively).
 
 ---
 
 ### Productivity & Knowledge
 
 - [**Notion AI**](https://www.notion.so/product/ai) – AI-enhanced workspace for writing and projects.  
+- [**Obsidian**](https://obsidian.md/) – AI-enhanced features for the popular markdown-based knowledge management system.  
 - [**Mem AI**](https://mem.ai/) – AI personal knowledge management.  
 - [**Recall**](https://www.recall.ai/) – Learning assistant with summaries and quizzes.  
 - [**Otter.ai**](https://otter.ai/) – Transcription and meeting summarization.  
@@ -129,7 +133,9 @@ This repository serves as your go-to guide for **AI tools that are actively main
 - [**ComfyUI**](https://comfyui.com/) – Node-based interface for Stable Diffusion workflows.  
 - [**Whisper**](https://openai.com/research/whisper) – OpenAI’s speech-to-text model.  
 - [**LangChain**](https://python.langchain.com/) – Framework for building LLM apps.  
+- [**Hugging Face Transformers**](https://huggingface.co/transformers) – Essential library for working with state-of-the-art transformer models.  
 - [**Ollama**](https://ollama.ai/) – Local deployment of AI models with one-line setup.  
+- [**Anaconda**](https://www.anaconda.com/) – Complete Python/R distribution for data science and AI development, including AI Navigator and Anaconda Toolbox with easy Jupyter notebook creation.  
 - [**Open Interpreter**](https://github.com/openai/open-interpreter) – Natural-language interface for controlling your computer.
 
 ---
