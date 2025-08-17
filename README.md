@@ -159,7 +159,8 @@ Submit a **Pull Request** or open an **Issue** — include name, category, short
 
 ## Related Lists
 
-- [**Awesome AI Tools**](https://github.com/mahseema/awesome-ai-tools) – A broad inventory of AI tools across domains.  
+- [**Awesome AI Tools**](https://github.com/mahseema/awesome-ai-tools) – A broad inventory of AI tools across domains.
+- [**AI For Developer**](https://aifordevelopers.org) - a curated ranked list of ai tools for developers
 - [**Awesome AI Coding Tools**](https://github.com/ai-for-developers/awesome-ai-coding-tools) – Focused on AI in software development.  
 - [**Top AI Directories**](https://github.com/best-of-ai/ai-directories) – Curated directories for discovering AI tools.
 
