@@ -84,6 +84,7 @@ This repository serves as your go-to guide for **AI tools that are actively main
 - [**Otter.ai**](https://otter.ai/) – Transcription and meeting summarization.  
 - [**Readwise Reader**](https://readwise.io/reader) – Improved reading with smart highlights and notes.  
 - [**Taskade AI**](https://www.taskade.com/) – Project management with AI workflows.  
+- [**Task Master**](https://www.task-master.dev/) – AI-powered task management for AI-driven dev workflows; integrates with Cursor, Windsurf, Claude; supports MCP.  
 - [**Slite AI**](https://slite.com/) – Team docs with AI-powered summaries.  
 - [**Superhuman AI**](https://superhuman.com/) – Speedy, intelligent email management.
 - [**Gamma**](https://gamma.app/) – AI-powered platform for creating presentations, documents, and webpages with intelligent design and fast workflows.
